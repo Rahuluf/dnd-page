@@ -1,0 +1,26 @@
+/* Add to App.css */
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+h3 {
+  color: red;
+}
+
+input[type="text"], input[type="checkbox"], button {
+  margin-bottom: 20px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+button {
+  background-color: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: gray;
+}
